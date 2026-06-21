@@ -239,7 +239,7 @@ GET /api/tasks/status?completed=true
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DecodeLabs-Project3-TaskManager.git
+git clone https://github.com/Tharushi111/DecodeLabs-Project3-TaskManager.git
 cd DecodeLabs-Project3-TaskManager
 ```
 
