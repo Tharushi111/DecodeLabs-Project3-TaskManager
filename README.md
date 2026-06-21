@@ -1,14 +1,6 @@
 <div align="center">
   <h1>Task Manager API</h1>
   <p><strong>DecodeLabs Internship — Project 3: Database Integration</strong></p>
-  <p>
-    <a href="#-technologies">Technologies</a> •
-    <a href="#-api-endpoints">API Endpoints</a> •
-    <a href="#-setup-instructions">Setup</a> •
-    <a href="#-database-schema">Database Schema</a> •
-    <a href="#-author">Author</a>
-  </p>
-  <br>
 </div>
 
 ---
